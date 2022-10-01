@@ -2,4 +2,5 @@ pandas
 xgboost==1.6.2
 streamlit_shap
 numpy
+matplotlib
 scikit-learn==1.0.2
